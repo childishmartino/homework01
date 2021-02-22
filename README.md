@@ -36,6 +36,7 @@ THEN I find a concise, descriptive title
 - Notes have been added to what was consolidated
 
 link to site: https://childishmartino.github.io/homework01/
+
 link to repo: https://github.com/childishmartino/homework01 
 
 ![screenshot of homework.](./assets/images/screenshot.png)
